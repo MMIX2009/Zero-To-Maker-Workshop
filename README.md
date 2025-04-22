@@ -50,3 +50,5 @@ Welcome to the **Zero to Maker Workshop** — a **crash course** in hands-on mak
 #### 🌐 Follow Along
 
 Stick around for tutorials, insights, and pro tips as Jaryd and Liam build their projects and help you start your own maker journey.
+
+[link to second page](/text2.md)
